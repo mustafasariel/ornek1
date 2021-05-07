@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "ornek1.sln",
+    "projects": [
+      "..\\CoreDto\\CoreDto.csproj",
+      "..\\Publisher\\Publisher.csproj",
+      "ornek1.csproj"
+    ]
+  }
+}
